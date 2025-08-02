@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-02T12:23:33 CLT" name="Suite de Automatizacion Funcional" finished-at="2025-08-02T12:26:31 CLT" duration-ms="177850">
+  <suite started-at="2025-08-02T14:00:27 CLT" name="Suite de Automatizacion Funcional" finished-at="2025-08-02T14:03:34 CLT" duration-ms="187041">
     <groups>
     </groups>
-    <test started-at="2025-08-02T12:23:33 CLT" name="Ejecucion en Chrome" finished-at="2025-08-02T12:24:31 CLT" duration-ms="57646">
+    <test started-at="2025-08-02T14:00:27 CLT" name="Ejecucion en Chrome" finished-at="2025-08-02T14:01:27 CLT" duration-ms="59985">
       <class name="com.tuempresa.tests.RegistroTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:23:51 CLT" name="setup" finished-at="2025-08-02T12:23:52 CLT" duration-ms="769" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:00:46 CLT" name="setup" finished-at="2025-08-02T14:00:47 CLT" duration-ms="906" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:23:52 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T12:23:56 CLT" duration-ms="3893" status="PASS">
+        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:00:47 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T14:00:51 CLT" duration-ms="4140" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -59,11 +59,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegistro -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:23:56 CLT" name="teardown" finished-at="2025-08-02T12:23:56 CLT" duration-ms="204" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:00:51 CLT" name="teardown" finished-at="2025-08-02T14:00:51 CLT" duration-ms="270" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:23:56 CLT" name="setup" finished-at="2025-08-02T12:23:57 CLT" duration-ms="846" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:00:51 CLT" name="setup" finished-at="2025-08-02T14:00:52 CLT" duration-ms="824" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -74,7 +74,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:23:57 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T12:24:01 CLT" duration-ms="3725" status="PASS">
+        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:00:52 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T14:00:56 CLT" duration-ms="4060" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -115,11 +115,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegistro -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:24:01 CLT" name="teardown" finished-at="2025-08-02T12:24:01 CLT" duration-ms="210" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:00:56 CLT" name="teardown" finished-at="2025-08-02T14:00:56 CLT" duration-ms="266" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:24:01 CLT" name="setup" finished-at="2025-08-02T12:24:02 CLT" duration-ms="787" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:00:56 CLT" name="setup" finished-at="2025-08-02T14:00:57 CLT" duration-ms="923" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -130,7 +130,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:24:02 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T12:24:06 CLT" duration-ms="4529" status="PASS">
+        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:00:57 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T14:01:01 CLT" duration-ms="3746" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -171,11 +171,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegistro -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:24:06 CLT" name="teardown" finished-at="2025-08-02T12:24:06 CLT" duration-ms="204" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:01:01 CLT" name="teardown" finished-at="2025-08-02T14:01:01 CLT" duration-ms="210" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:24:06 CLT" name="setup" finished-at="2025-08-02T12:24:07 CLT" duration-ms="830" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:01:01 CLT" name="setup" finished-at="2025-08-02T14:01:02 CLT" duration-ms="836" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -186,7 +186,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:24:07 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T12:24:11 CLT" duration-ms="3963" status="PASS">
+        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:01:02 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T14:01:07 CLT" duration-ms="5067" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -227,11 +227,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegistro -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:24:11 CLT" name="teardown" finished-at="2025-08-02T12:24:12 CLT" duration-ms="225" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:01:07 CLT" name="teardown" finished-at="2025-08-02T14:01:07 CLT" duration-ms="187" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:24:12 CLT" name="setup" finished-at="2025-08-02T12:24:12 CLT" duration-ms="799" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:01:07 CLT" name="setup" finished-at="2025-08-02T14:01:08 CLT" duration-ms="802" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -242,7 +242,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:24:12 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T12:24:16 CLT" duration-ms="3727" status="PASS">
+        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:01:08 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T14:01:12 CLT" duration-ms="3693" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -283,11 +283,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegistro -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:24:16 CLT" name="teardown" finished-at="2025-08-02T12:24:16 CLT" duration-ms="237" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:01:12 CLT" name="teardown" finished-at="2025-08-02T14:01:12 CLT" duration-ms="189" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:24:16 CLT" name="setup" finished-at="2025-08-02T12:24:17 CLT" duration-ms="770" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:01:12 CLT" name="setup" finished-at="2025-08-02T14:01:13 CLT" duration-ms="836" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -298,7 +298,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:24:17 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T12:24:31 CLT" duration-ms="13744" status="PASS">
+        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:01:13 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T14:01:26 CLT" duration-ms="13578" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -339,13 +339,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegistro -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T12:24:31 CLT" name="teardown" finished-at="2025-08-02T12:24:31 CLT" duration-ms="267" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@52bf72b5]" started-at="2025-08-02T14:01:26 CLT" name="teardown" finished-at="2025-08-02T14:01:27 CLT" duration-ms="276" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.tuempresa.tests.RegistroTest -->
       <class name="com.tuempresa.tests.LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T12:23:33 CLT" name="setup" finished-at="2025-08-02T12:23:35 CLT" duration-ms="1788" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T14:00:27 CLT" name="setup" finished-at="2025-08-02T14:00:29 CLT" duration-ms="2610" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -356,15 +356,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLoginExitoso()[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T12:23:35 CLT" name="testLoginExitoso" description="Verificar login con credenciales válidas" finished-at="2025-08-02T12:23:39 CLT" duration-ms="4229" status="PASS">
+        <test-method signature="testLoginExitoso()[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T14:00:29 CLT" name="testLoginExitoso" description="Verificar login con credenciales válidas" finished-at="2025-08-02T14:00:34 CLT" duration-ms="4276" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginExitoso -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T12:23:39 CLT" name="teardown" finished-at="2025-08-02T12:23:40 CLT" duration-ms="217" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T14:00:34 CLT" name="teardown" finished-at="2025-08-02T14:00:34 CLT" duration-ms="287" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T12:23:40 CLT" name="setup" finished-at="2025-08-02T12:23:40 CLT" duration-ms="777" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T14:00:34 CLT" name="setup" finished-at="2025-08-02T14:00:35 CLT" duration-ms="920" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -375,15 +375,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLoginFallido()[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T12:23:40 CLT" name="testLoginFallido" description="Verificar login con credenciales inválidas" finished-at="2025-08-02T12:23:44 CLT" duration-ms="3871" status="PASS">
+        <test-method signature="testLoginFallido()[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T14:00:35 CLT" name="testLoginFallido" description="Verificar login con credenciales inválidas" finished-at="2025-08-02T14:00:39 CLT" duration-ms="4028" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginFallido -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T12:23:44 CLT" name="teardown" finished-at="2025-08-02T12:23:45 CLT" duration-ms="222" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T14:00:39 CLT" name="teardown" finished-at="2025-08-02T14:00:39 CLT" duration-ms="280" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T12:23:45 CLT" name="setup" finished-at="2025-08-02T12:23:45 CLT" duration-ms="787" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T14:00:39 CLT" name="setup" finished-at="2025-08-02T14:00:40 CLT" duration-ms="863" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -394,19 +394,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLoginFallidoMultiplesIntentos()[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T12:23:45 CLT" name="testLoginFallidoMultiplesIntentos" description="Verificar comportamiento con múltiples fallas" finished-at="2025-08-02T12:23:51 CLT" duration-ms="5752" status="PASS">
+        <test-method signature="testLoginFallidoMultiplesIntentos()[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T14:00:40 CLT" name="testLoginFallidoMultiplesIntentos" description="Verificar comportamiento con múltiples fallas" finished-at="2025-08-02T14:00:46 CLT" duration-ms="5569" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginFallidoMultiplesIntentos -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T12:23:51 CLT" name="teardown" finished-at="2025-08-02T12:23:51 CLT" duration-ms="210" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.LoginTest@72057ecf]" started-at="2025-08-02T14:00:46 CLT" name="teardown" finished-at="2025-08-02T14:00:46 CLT" duration-ms="272" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.tuempresa.tests.LoginTest -->
     </test> <!-- Ejecucion en Chrome -->
-    <test started-at="2025-08-02T12:24:31 CLT" name="Ejecucion en Firefox" finished-at="2025-08-02T12:26:31 CLT" duration-ms="120180">
+    <test started-at="2025-08-02T14:01:27 CLT" name="Ejecucion en Firefox" finished-at="2025-08-02T14:03:34 CLT" duration-ms="127032">
       <class name="com.tuempresa.tests.RegistroTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:25:12 CLT" name="setup" finished-at="2025-08-02T12:25:16 CLT" duration-ms="4304" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:02:11 CLT" name="setup" finished-at="2025-08-02T14:02:15 CLT" duration-ms="4664" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -417,7 +417,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:25:16 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T12:25:20 CLT" duration-ms="4062" status="PASS">
+        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:02:15 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T14:02:20 CLT" duration-ms="4572" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -458,11 +458,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegistro -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:25:20 CLT" name="teardown" finished-at="2025-08-02T12:25:23 CLT" duration-ms="3391" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:02:20 CLT" name="teardown" finished-at="2025-08-02T14:02:23 CLT" duration-ms="3306" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:25:23 CLT" name="setup" finished-at="2025-08-02T12:25:28 CLT" duration-ms="4351" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:02:23 CLT" name="setup" finished-at="2025-08-02T14:02:28 CLT" duration-ms="4787" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -473,7 +473,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:25:28 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T12:25:32 CLT" duration-ms="3886" status="PASS">
+        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:02:28 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T14:02:33 CLT" duration-ms="4763" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -514,11 +514,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegistro -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:25:32 CLT" name="teardown" finished-at="2025-08-02T12:25:35 CLT" duration-ms="3160" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:02:33 CLT" name="teardown" finished-at="2025-08-02T14:02:36 CLT" duration-ms="3389" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:25:35 CLT" name="setup" finished-at="2025-08-02T12:25:39 CLT" duration-ms="4326" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:02:36 CLT" name="setup" finished-at="2025-08-02T14:02:41 CLT" duration-ms="4623" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -529,7 +529,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:25:39 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T12:25:44 CLT" duration-ms="4500" status="PASS">
+        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:02:41 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T14:02:45 CLT" duration-ms="4097" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -570,11 +570,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegistro -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:25:44 CLT" name="teardown" finished-at="2025-08-02T12:25:47 CLT" duration-ms="3170" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:02:45 CLT" name="teardown" finished-at="2025-08-02T14:02:48 CLT" duration-ms="3314" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:25:47 CLT" name="setup" finished-at="2025-08-02T12:25:51 CLT" duration-ms="4460" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:02:48 CLT" name="setup" finished-at="2025-08-02T14:02:53 CLT" duration-ms="4569" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -585,7 +585,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:25:51 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T12:25:56 CLT" duration-ms="4362" status="PASS">
+        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:02:53 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T14:02:57 CLT" duration-ms="4556" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -626,11 +626,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegistro -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:25:56 CLT" name="teardown" finished-at="2025-08-02T12:25:59 CLT" duration-ms="3191" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:02:57 CLT" name="teardown" finished-at="2025-08-02T14:03:00 CLT" duration-ms="3296" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:25:59 CLT" name="setup" finished-at="2025-08-02T12:26:03 CLT" duration-ms="4379" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:03:00 CLT" name="setup" finished-at="2025-08-02T14:03:05 CLT" duration-ms="4667" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -641,7 +641,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:26:03 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T12:26:08 CLT" duration-ms="4871" status="PASS">
+        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:03:05 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T14:03:10 CLT" duration-ms="4785" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -682,11 +682,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegistro -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:26:08 CLT" name="teardown" finished-at="2025-08-02T12:26:11 CLT" duration-ms="3253" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:03:10 CLT" name="teardown" finished-at="2025-08-02T14:03:13 CLT" duration-ms="3274" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:26:11 CLT" name="setup" finished-at="2025-08-02T12:26:16 CLT" duration-ms="4378" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:03:13 CLT" name="setup" finished-at="2025-08-02T14:03:18 CLT" duration-ms="4436" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -697,7 +697,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:26:16 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T12:26:29 CLT" duration-ms="13759" status="PASS">
+        <test-method signature="testRegistro(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean)[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:03:18 CLT" name="testRegistro" description="Valida el formulario de registro con diferentes datos." data-provider="registroDatos" finished-at="2025-08-02T14:03:32 CLT" duration-ms="14071" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -738,13 +738,13 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testRegistro -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T12:26:29 CLT" name="teardown" finished-at="2025-08-02T12:26:31 CLT" duration-ms="1895" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.RegistroTest@67c27493]" started-at="2025-08-02T14:03:32 CLT" name="teardown" finished-at="2025-08-02T14:03:34 CLT" duration-ms="1979" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.tuempresa.tests.RegistroTest -->
       <class name="com.tuempresa.tests.LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T12:24:31 CLT" name="setup" finished-at="2025-08-02T12:24:35 CLT" duration-ms="4370" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T14:01:27 CLT" name="setup" finished-at="2025-08-02T14:01:32 CLT" duration-ms="5422" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -755,15 +755,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLoginExitoso()[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T12:24:35 CLT" name="testLoginExitoso" description="Verificar login con credenciales válidas" finished-at="2025-08-02T12:24:41 CLT" duration-ms="5159" status="PASS">
+        <test-method signature="testLoginExitoso()[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T14:01:32 CLT" name="testLoginExitoso" description="Verificar login con credenciales válidas" finished-at="2025-08-02T14:01:37 CLT" duration-ms="5418" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginExitoso -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T12:24:41 CLT" name="teardown" finished-at="2025-08-02T12:24:44 CLT" duration-ms="3190" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T14:01:37 CLT" name="teardown" finished-at="2025-08-02T14:01:41 CLT" duration-ms="3548" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T12:24:44 CLT" name="setup" finished-at="2025-08-02T12:24:48 CLT" duration-ms="4435" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T14:01:41 CLT" name="setup" finished-at="2025-08-02T14:01:46 CLT" duration-ms="4579" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -774,15 +774,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLoginFallido()[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T12:24:48 CLT" name="testLoginFallido" description="Verificar login con credenciales inválidas" finished-at="2025-08-02T12:24:53 CLT" duration-ms="4490" status="PASS">
+        <test-method signature="testLoginFallido()[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T14:01:46 CLT" name="testLoginFallido" description="Verificar login con credenciales inválidas" finished-at="2025-08-02T14:01:51 CLT" duration-ms="4969" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginFallido -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T12:24:53 CLT" name="teardown" finished-at="2025-08-02T12:24:56 CLT" duration-ms="3184" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T14:01:51 CLT" name="teardown" finished-at="2025-08-02T14:01:54 CLT" duration-ms="3273" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T12:24:56 CLT" name="setup" finished-at="2025-08-02T12:25:00 CLT" duration-ms="4391" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T14:01:54 CLT" name="setup" finished-at="2025-08-02T14:01:58 CLT" duration-ms="4482" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -793,11 +793,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLoginFallidoMultiplesIntentos()[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T12:25:00 CLT" name="testLoginFallidoMultiplesIntentos" description="Verificar comportamiento con múltiples fallas" finished-at="2025-08-02T12:25:08 CLT" duration-ms="8054" status="PASS">
+        <test-method signature="testLoginFallidoMultiplesIntentos()[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T14:01:58 CLT" name="testLoginFallidoMultiplesIntentos" description="Verificar comportamiento con múltiples fallas" finished-at="2025-08-02T14:02:07 CLT" duration-ms="8868" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginFallidoMultiplesIntentos -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T12:25:08 CLT" name="teardown" finished-at="2025-08-02T12:25:12 CLT" duration-ms="3195" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.tuempresa.tests.LoginTest@77fbd92c]" started-at="2025-08-02T14:02:07 CLT" name="teardown" finished-at="2025-08-02T14:02:11 CLT" duration-ms="3316" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
